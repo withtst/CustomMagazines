@@ -1,0 +1,18 @@
+module CustomMagazines
+{
+    item CustomMagazine
+    {
+        DisplayCategory = Literature,
+        ItemType = base:literature,
+        Weight = 0.1,
+        Icon = CustomMagazineIcon,
+        BoredomChange = 0,
+        StressChange = 0,
+        UnhappyChange = 0,
+        NumberOfPages = 1,
+        OnCreate = CustomMagazinesServer.onCreateItem,
+        StaticModel = CustomMagazineHeld,
+        WorldStaticModel = CustomMagazineGround,
+        Tags = base:magazine,
+    }
+}

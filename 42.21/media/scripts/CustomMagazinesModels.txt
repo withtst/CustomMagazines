@@ -1,0 +1,16 @@
+module CustomMagazines
+{
+    model CustomMagazineHeld
+    {
+        mesh = WorldItems/Magazine,
+        texture = WorldItems/CustomMagazineCover,
+        scale = 0.4,
+    }
+
+    model CustomMagazineGround
+    {
+        mesh = WorldItems/Magazine,
+        texture = WorldItems/CustomMagazineCover,
+        scale = 0.4,
+    }
+}

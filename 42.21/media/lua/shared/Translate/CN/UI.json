@@ -1,0 +1,17 @@
+{
+    "UI_CustomMagazines_Previous": "上一页",
+    "UI_CustomMagazines_Next": "下一页",
+    "UI_CustomMagazines_FirstPage": "翻到首页",
+    "UI_CustomMagazines_LastPage": "翻到末页",
+    "UI_CustomMagazines_Page": "%1 / %2",
+    "UI_CustomMagazines_ImageUnavailable": "无法加载这张图片。",
+    "UI_CustomMagazines_PathMissing": "请在 Zomboid/Lua/CustomMagazinesPath.txt 中设置图片根目录。",
+    "UI_CustomMagazines_FolderMismatch": "本地杂志页列表与服务器不一致，请检查图片文件名和排序。",
+    "UI_CustomMagazines_NoPages": "这本杂志没有可读取的图片页。",
+    "UI_CustomMagazines_ItemUnavailable": "无法取得这本杂志，请先把它放进角色物品栏。",
+    "UI_CustomMagazines_AlreadyReading": "这本杂志正在阅读中。",
+    "UI_CustomMagazines_ReadFailed": "无法开始阅读这本杂志，请查看游戏日志。",
+    "UI_CustomMagazines_ServerUnavailable": "杂志服务当前不可用。",
+    "UI_CustomMagazines_RenamePrompt": "请输入杂志标题：",
+    "UI_CustomMagazines_RenameFailed": "无法重命名这本杂志。"
+}

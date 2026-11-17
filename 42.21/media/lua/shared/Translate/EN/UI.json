@@ -1,0 +1,17 @@
+{
+    "UI_CustomMagazines_Previous": "Previous page",
+    "UI_CustomMagazines_Next": "Next page",
+    "UI_CustomMagazines_FirstPage": "First page",
+    "UI_CustomMagazines_LastPage": "Last page",
+    "UI_CustomMagazines_Page": "%1 / %2",
+    "UI_CustomMagazines_ImageUnavailable": "This image could not be loaded.",
+    "UI_CustomMagazines_PathMissing": "Set an image root in Zomboid/Lua/CustomMagazinesPath.txt.",
+    "UI_CustomMagazines_FolderMismatch": "The local magazine page list does not match the server. Check its filenames and order.",
+    "UI_CustomMagazines_NoPages": "This magazine has no supported image pages.",
+    "UI_CustomMagazines_ItemUnavailable": "Could not access the magazine. Move it to your inventory first.",
+    "UI_CustomMagazines_AlreadyReading": "This magazine is already being read.",
+    "UI_CustomMagazines_ReadFailed": "Could not start reading this magazine. Check the game log.",
+    "UI_CustomMagazines_ServerUnavailable": "The magazine service is unavailable.",
+    "UI_CustomMagazines_RenamePrompt": "Enter a title for this magazine:",
+    "UI_CustomMagazines_RenameFailed": "The magazine could not be renamed."
+}

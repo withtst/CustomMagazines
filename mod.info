@@ -1,0 +1,13 @@
+name=Custom Magazines
+id=CustomMagazines
+description=Read image pages as magazines from a configured local folder. Requires Zombie Buddy 2.3.4.
+author=CustomMagazines contributors
+versionMin=42.21
+versionMax=42.99
+modversion=0.3.7
+zomboidversion=42
+require=\ZombieBuddy
+javaJarFile=media/java/CustomMagazines.jar
+javaPkgName=org.mypzmods.custommagazines
+ZBVersionMin=2.3.4
+ZBVersionMax=2.3.4
